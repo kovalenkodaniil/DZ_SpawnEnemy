@@ -153,8 +153,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c435e2d7e32ac09428c4f946fcb340ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemy: {fileID: 9199161439174443203, guid: ece6b1eac93d6f542963fd908eff91f7, type: 3}
+  _enemy: {fileID: -5435938589975875120, guid: ece6b1eac93d6f542963fd908eff91f7, type: 3}
   _spawnDelay: 2
+  _isSpawn: 1
 --- !u!212 &271424976
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -336,8 +337,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c435e2d7e32ac09428c4f946fcb340ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemy: {fileID: 9199161439174443203, guid: ece6b1eac93d6f542963fd908eff91f7, type: 3}
+  _enemy: {fileID: -5435938589975875120, guid: ece6b1eac93d6f542963fd908eff91f7, type: 3}
   _spawnDelay: 2
+  _isSpawn: 1
 --- !u!212 &807627096
 SpriteRenderer:
   m_ObjectHideFlags: 0
